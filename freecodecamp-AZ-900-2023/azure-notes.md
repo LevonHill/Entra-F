@@ -27,3 +27,8 @@
 ![alt text](image-19.png)
 ![alt text](image-20.png)
 ![alt text](image-21.png)
+<<<<<<< HEAD
+=======
+![alt text](image-22.png)
+
+> > > > > > > 9278470274a99d73c4b357c85568bb0da6a553a3
